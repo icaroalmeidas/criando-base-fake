@@ -29,7 +29,7 @@ def generate_data(num_records):
 dados = generate_data(1000)  # ✅ Nome correto
 columns = ["name", "account_number", "balance"]
 df = spark.createDataFrame(dados, schema=columns)
-df.show(10) ```
+df.show(10)
 
 # sort data by balance in descending order and show top 10
 df_sort = df.orderBy(df.balance.desc()).limit(10)

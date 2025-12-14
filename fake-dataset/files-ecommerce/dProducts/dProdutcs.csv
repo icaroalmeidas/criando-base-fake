@@ -1,0 +1,300 @@
+1;Perfume;Sullivan, Ballard and Bates;Beauty;68.47;125.66;true;2024-08-30
+2;Lotion;Ware-Pope;Beauty;265.29;630.77;true;2025-11-04
+3;Football;Jones, Berry and Adams;Sports;254.92;503.64;true;2025-02-20
+4;Sofa;Willis, Garcia and Schaefer;Home;112.95;216.98;true;2025-11-30
+5;Jacket;Carrillo, Shelton and Goodman;Clothing;168.2;224.1;true;2025-08-18
+6;Yoga Mat;Ramirez, Osborn and Clarke;Sports;248.47;576.91;true;2024-06-19
+7;T-Shirt;Hunter, Johnson and Singh;Clothing;121.2;318.85;true;2025-09-23
+8;Table;Smith-Campbell;Home;63.72;134.86;true;2025-05-10
+9;Smartphone;Clark, Colon and Hampton;Electronics;45.43;81.75;true;2024-10-28
+10;Perfume;Anderson Ltd;Beauty;183.85;391.22;true;2024-05-24
+11;Yoga Mat;Scott, James and Anderson;Sports;52.94;157.93;true;2024-04-06
+12;Curtains;Willis, Michael and Ferguson;Home;104.23;280.47;true;2025-04-02
+13;Yoga Mat;Camacho, Garcia and Gilbert;Sports;145.09;178.45;true;2025-01-28
+14;Tablet;Perez-Smith;Electronics;177.19;466.75;true;2025-05-08
+15;Smartwatch;Cohen Group;Electronics;145.0;426.41;true;2025-06-07
+16;Bicycle;Taylor and Sons;Sports;72.13;93.22;true;2025-08-01
+17;Bicycle;Warner, Torres and Jimenez;Sports;233.51;440.01;true;2024-04-18
+18;T-Shirt;Martin, Sanders and Murray;Clothing;173.91;427.98;true;2024-12-16
+19;Cream;Brown-Palmer;Beauty;128.54;249.8;true;2024-12-14
+20;Bicycle;Stout and Sons;Sports;276.55;766.34;true;2024-05-11
+21;Laptop;Day, Banks and Brown;Electronics;158.01;349.14;false;2025-04-07
+22;Lotion;Jones-Boyd;Beauty;116.16;339.42;true;2024-09-20
+23;Yoga Mat;Archer and Sons;Sports;166.15;401.51;true;2025-05-07
+24;Curtains;Johnston-Wood;Home;147.83;432.14;true;2024-07-24
+25;Table;Petty, Greene and Compton;Home;282.74;839.19;true;2025-11-21
+26;Sneakers;Johnson-Shelton;Clothing;98.53;180.1;false;2024-12-24
+27;Lamp;Wallace, Adams and Hampton;Home;40.95;99.01;true;2024-09-21
+28;Cream;Weaver, Maddox and Chase;Beauty;286.61;759.03;true;2025-09-01
+29;Chair;Moore-Foster;Home;107.18;213.96;true;2024-03-10
+30;Perfume;Brown, Beard and Butler;Beauty;64.61;140.17;false;2024-09-19
+31;Table;Smith Group;Home;37.22;94.3;true;2024-08-05
+32;Smartwatch;Oconnor-Cohen;Electronics;71.57;115.88;true;2024-10-06
+33;Sofa;Rivera-Wade;Home;34.66;89.68;true;2024-12-30
+34;Tennis Racket;Morris-Walton;Sports;125.04;360.5;true;2024-09-01
+35;Perfume;Bell-Esparza;Beauty;227.99;391.47;true;2024-04-17
+36;Smartphone;Jordan-Smith;Electronics;197.43;319.44;true;2024-01-21
+37;Laptop;Griffin, Meyer and Lamb;Electronics;128.28;347.34;false;2025-07-26
+38;Tablet;Carter Inc;Electronics;237.45;364.57;true;2024-08-31
+39;Chair;Reyes-Scott;Home;7.73;17.18;true;2024-02-29
+40;Lamp;Snow LLC;Home;139.03;327.33;true;2024-06-21
+41;Hat;Chapman, Kennedy and Phillips;Clothing;143.07;221.34;true;2024-03-28
+42;Sneakers;Harris Group;Clothing;196.24;489.32;true;2025-10-10
+43;Lamp;Smith-Rowe;Home;172.5;442.14;true;2025-08-16
+44;Makeup Kit;Camacho-Cross;Beauty;157.01;212.93;true;2024-11-08
+45;Jeans;Russell Inc;Clothing;145.85;420.7;true;2025-09-18
+46;Perfume;Patrick-Adams;Beauty;136.79;229.89;true;2025-10-13
+47;Bicycle;Day, Brown and Williams;Sports;8.37;19.89;true;2025-05-04
+48;Smartphone;Williams, Carr and Nichols;Electronics;142.29;211.65;true;2024-01-05
+49;Chair;Frank, Ramirez and Jones;Home;193.42;559.59;true;2024-06-27
+50;Jeans;Smith, Carrillo and Little;Clothing;287.42;592.29;true;2025-08-07
+51;Yoga Mat;Carlson-Parrish;Sports;127.67;279.42;true;2025-10-16
+52;Tennis Racket;Rich, Taylor and Nelson;Sports;229.75;557.06;true;2025-12-06
+53;Smartwatch;Adams, Clark and Price;Electronics;136.79;337.43;true;2024-06-28
+54;Football;Evans Inc;Sports;23.22;50.75;true;2024-11-17
+55;Bicycle;Molina-Gray;Sports;49.21;88.12;true;2025-05-02
+56;Laptop;Travis-Beltran;Electronics;216.49;450.28;true;2023-12-24
+57;Shampoo;Jimenez-Fowler;Beauty;138.76;294.7;true;2024-05-24
+58;Smartwatch;Rhodes-Beasley;Electronics;141.4;375.06;true;2025-02-13
+59;Cream;Juarez, Williams and Barrett;Beauty;245.85;625.06;true;2024-10-24
+60;Tablet;Love LLC;Electronics;106.64;140.21;false;2024-06-28
+61;Tablet;Wiggins, Gates and Solis;Electronics;14.36;27.8;true;2025-11-21
+62;Cream;Pruitt-Burke;Beauty;297.89;562.55;true;2025-06-23
+63;Makeup Kit;Meyer-Bishop;Beauty;28.67;84.16;true;2025-09-10
+64;Jacket;Lee-Collins;Clothing;40.0;119.48;true;2024-01-12
+65;Jeans;Elliott Group;Clothing;251.27;643.53;false;2025-04-13
+66;Lotion;Mitchell-Kim;Beauty;130.12;244.98;true;2024-09-04
+67;Cream;Sosa-Wilson;Beauty;50.76;78.13;true;2024-07-26
+68;Smartphone;Lam, Rojas and Holder;Electronics;243.8;476.54;true;2025-04-29
+69;Laptop;Moore, Smith and Boyd;Electronics;65.79;90.9;true;2025-05-26
+70;Football;Flores, Davidson and Russo;Sports;77.2;98.79;true;2025-05-06
+71;Tennis Racket;Rodriguez-Fisher;Sports;227.54;590.9;true;2024-06-09
+72;Table;Jackson Group;Home;245.66;618.26;true;2024-01-05
+73;Yoga Mat;Ward, Dunn and Moran;Sports;74.89;207.99;false;2025-06-19
+74;Tennis Racket;Stevens Group;Sports;127.0;215.3;true;2024-07-14
+75;Tennis Racket;Clark, Sweeney and Ramos;Sports;189.67;373.45;true;2025-05-08
+76;Sofa;Powell-Bridges;Home;236.81;420.04;true;2024-05-18
+77;Jacket;Melendez, Miller and Davis;Clothing;116.06;296.88;true;2025-07-29
+78;Jacket;Harrison PLC;Clothing;257.97;376.59;true;2024-04-01
+79;Smartwatch;Mercado LLC;Electronics;126.74;247.11;true;2025-08-05
+80;Perfume;Edwards, Dean and Wheeler;Beauty;80.22;143.95;true;2023-12-31
+81;Cream;Reilly-Young;Beauty;32.28;80.84;true;2024-11-14
+82;Sofa;Robinson Group;Home;203.73;465.58;true;2024-03-10
+83;Hat;Shaw, Riley and Hooper;Clothing;218.67;482.37;true;2025-09-20
+84;Lamp;Ruiz PLC;Home;287.32;352.71;false;2024-01-24
+85;Tablet;Hess, Hines and Patterson;Electronics;274.76;673.75;true;2025-08-07
+86;Perfume;Weaver, Little and Brown;Beauty;167.86;435.75;true;2025-09-23
+87;Yoga Mat;Patrick-Joyce;Sports;95.98;177.31;true;2025-02-10
+88;Shampoo;Green, Burton and Wallace;Beauty;241.83;604.66;true;2024-12-10
+89;Table;Harris-Warren;Home;114.36;222.44;true;2025-12-05
+90;Jeans;Fernandez, Jennings and Cameron;Clothing;9.78;21.48;true;2025-06-13
+91;Cream;Palmer-Gomez;Beauty;49.96;89.62;true;2024-01-30
+92;Sneakers;Morrison-Grant;Clothing;167.44;485.28;true;2024-07-22
+93;Makeup Kit;Huerta, Gill and Burton;Beauty;140.94;355.03;true;2024-04-14
+94;Hat;Clark, Baker and Hunt;Clothing;149.05;424.85;true;2024-10-09
+95;Smartwatch;Johnson, Moore and Smith;Electronics;14.98;40.81;false;2024-11-28
+96;Smartphone;Hernandez PLC;Electronics;126.66;344.08;true;2024-09-30
+97;T-Shirt;White Ltd;Clothing;69.52;140.49;true;2025-07-10
+98;Dumbbells;Johnson, Atkinson and Rojas;Sports;199.49;245.04;true;2025-01-16
+99;Shampoo;Garcia, Hebert and Holland;Beauty;9.93;24.82;true;2025-01-11
+100;Chair;Hughes, Rios and Farmer;Home;153.15;376.16;true;2024-12-21
+101;T-Shirt;Ochoa Inc;Clothing;275.82;591.33;true;2025-04-01
+102;Bicycle;Smith-Morales;Sports;79.46;146.05;true;2025-05-19
+103;Headphones;Johnson, Wilson and Gibson;Electronics;287.99;583.52;true;2024-03-19
+104;Jacket;Maxwell-Lawrence;Clothing;206.79;563.74;true;2024-03-28
+105;Smartphone;Lawson, Hall and Hill;Electronics;124.56;234.04;true;2025-05-13
+106;Laptop;Spears, Kim and Torres;Electronics;29.39;79.99;true;2025-10-03
+107;Curtains;Sanchez LLC;Home;293.31;866.12;true;2024-01-15
+108;Laptop;Murphy-Dixon;Electronics;67.37;186.12;true;2024-10-11
+109;Cream;Logan, Grimes and Barajas;Beauty;18.74;25.0;false;2024-05-01
+110;Bicycle;Vaughn-Smith;Sports;199.14;303.26;true;2024-12-03
+111;Laptop;Singh and Sons;Electronics;178.18;455.08;true;2025-08-18
+112;Shampoo;Roach, Robinson and Morris;Beauty;93.29;206.65;true;2024-08-18
+113;Lotion;Maldonado LLC;Beauty;102.86;263.33;true;2024-10-30
+114;Smartwatch;Howard Ltd;Electronics;224.91;409.91;true;2024-02-20
+115;T-Shirt;Williamson-Lowe;Clothing;105.47;272.56;false;2025-06-06
+116;Cream;Hill, Short and Baker;Beauty;13.74;23.25;false;2024-07-28
+117;Perfume;Medina, Garcia and Jones;Beauty;109.96;318.23;true;2024-01-29
+118;Dumbbells;Tapia-Curtis;Sports;30.28;70.05;true;2025-05-09
+119;Smartphone;Mayer Ltd;Electronics;84.05;158.35;true;2025-07-15
+120;Sneakers;Gonzalez PLC;Clothing;98.42;136.98;true;2025-12-07
+121;Sofa;Nguyen Group;Home;111.18;187.4;true;2025-08-03
+122;Sneakers;Guzman, Manning and Aguilar;Clothing;137.41;302.1;true;2024-10-29
+123;Smartphone;Williamson-Medina;Electronics;109.4;149.61;true;2025-09-12
+124;Sofa;Hall LLC;Home;8.64;16.8;true;2025-07-23
+125;Tennis Racket;Adams, Simmons and Carter;Sports;173.73;261.51;true;2024-10-10
+126;Jacket;Andrews-Carter;Clothing;93.83;195.88;true;2025-10-12
+127;Cream;Weiss Group;Beauty;129.23;267.71;true;2025-05-27
+128;Table;Mckay-Olsen;Home;217.67;455.46;true;2024-01-31
+129;Shampoo;Pace PLC;Beauty;44.97;54.51;true;2024-08-03
+130;Dumbbells;Chang PLC;Sports;242.2;434.31;true;2025-04-10
+131;Tennis Racket;Kelly Group;Sports;93.63;214.02;true;2024-09-06
+132;Cream;Stark, Guzman and Warner;Beauty;57.4;110.03;true;2024-03-30
+133;Lotion;Hall-Hicks;Beauty;235.68;421.06;true;2025-11-16
+134;Cream;Clark, Johnson and Cunningham;Beauty;38.6;85.5;true;2024-02-16
+135;Tennis Racket;Richardson, Thornton and Torres;Sports;206.11;451.42;false;2024-04-11
+136;Perfume;Perez LLC;Beauty;134.34;231.66;true;2024-02-18
+137;Makeup Kit;Watson, Pierce and Sims;Beauty;46.06;80.38;true;2024-06-16
+138;Sneakers;Aguilar Group;Clothing;237.78;316.99;false;2023-12-31
+139;Lotion;Lozano-Evans;Beauty;123.24;260.27;false;2025-07-16
+140;Lotion;Fletcher-Price;Beauty;15.85;46.65;true;2025-05-28
+141;Bicycle;Paul-Armstrong;Sports;193.26;261.47;true;2025-01-15
+142;Table;Miller, Burton and Adams;Home;195.86;250.65;false;2025-10-25
+143;Cream;Wilson, Brown and Smith;Beauty;289.89;572.48;true;2023-12-23
+144;Table;Merritt Inc;Home;155.65;332.13;true;2024-12-23
+145;Tennis Racket;Sullivan PLC;Sports;136.5;259.9;true;2024-02-04
+146;Bicycle;Vance-Garcia;Sports;49.47;148.21;true;2025-07-11
+147;Sofa;Monroe-Contreras;Home;276.56;374.61;true;2024-09-21
+148;Jacket;Thornton LLC;Clothing;97.01;195.92;true;2025-08-02
+149;Cream;Benson Group;Beauty;145.47;289.3;true;2024-07-11
+150;Chair;Davies, Vargas and Ball;Home;93.58;248.77;true;2024-03-14
+151;Chair;Roberts-Walsh;Home;204.76;306.29;false;2024-06-07
+152;Hat;Townsend Inc;Clothing;56.46;84.03;true;2025-07-29
+153;Perfume;Nixon-Walters;Beauty;240.34;560.85;true;2025-11-21
+154;Makeup Kit;Johnson, Barber and Richards;Beauty;13.61;31.38;true;2025-05-13
+155;Dumbbells;Wilson and Sons;Sports;119.71;295.51;true;2024-10-12
+156;Smartwatch;Stevens-Greene;Electronics;35.02;96.99;true;2024-09-14
+157;Table;Gutierrez-Cisneros;Home;139.98;234.08;true;2023-12-15
+158;Yoga Mat;Francis-Herman;Sports;181.11;416.62;true;2024-07-04
+159;Lamp;Taylor and Sons;Home;254.43;588.05;true;2024-03-20
+160;Curtains;Irwin, Adams and Chapman;Home;179.1;431.59;true;2024-01-11
+161;Jacket;Hardy Group;Clothing;39.5;73.94;true;2025-01-21
+162;Makeup Kit;Freeman-Williamson;Beauty;180.95;404.36;true;2023-12-25
+163;Lotion;Lin-Mendez;Beauty;209.56;494.87;false;2024-08-09
+164;Tennis Racket;Torres, Olsen and Martinez;Sports;149.44;217.07;true;2024-07-15
+165;Lotion;Martin, Sanchez and Garrison;Beauty;20.82;38.44;true;2024-01-28
+166;Jeans;York-Velez;Clothing;245.49;720.49;true;2024-10-26
+167;Makeup Kit;Taylor-Lamb;Beauty;206.99;403.24;true;2025-07-30
+168;Perfume;Dunn and Sons;Beauty;29.39;36.9;true;2024-12-05
+169;Chair;Gray Inc;Home;86.08;186.6;true;2025-01-31
+170;Lotion;Moss-Day;Beauty;224.04;577.72;true;2025-09-27
+171;Smartwatch;Rogers, Aguilar and Moore;Electronics;38.69;100.41;true;2024-04-25
+172;Curtains;Gonzales, Rosales and Baker;Home;247.67;315.75;true;2024-02-19
+173;Tennis Racket;Williams, Robinson and Garrison;Sports;296.98;411.12;true;2025-07-15
+174;Jacket;Morris, Kaufman and Paul;Clothing;263.07;330.95;true;2024-08-14
+175;Tablet;Chandler and Sons;Electronics;260.26;367.3;true;2025-08-13
+176;Hat;Chan-Schaefer;Clothing;208.29;572.77;true;2024-06-18
+177;Perfume;Ross, Taylor and Ferguson;Beauty;186.76;487.95;true;2025-01-08
+178;Smartwatch;Smith, Harrison and Allen;Electronics;108.49;185.08;true;2024-06-01
+179;Lamp;Buckley-Hill;Home;90.35;151.9;true;2025-05-31
+180;Laptop;Miller, Parks and Carter;Electronics;289.02;755.57;false;2025-08-11
+181;Table;Howard Inc;Home;211.92;304.92;true;2024-06-21
+182;Table;Ellis, Holmes and Lawrence;Home;229.63;555.07;true;2024-08-01
+183;Yoga Mat;Anderson Ltd;Sports;190.2;356.68;true;2023-12-19
+184;Tablet;Aguilar LLC;Electronics;157.11;267.21;false;2024-06-09
+185;Sofa;Curtis-Coleman;Home;285.32;510.47;true;2024-12-23
+186;Tablet;Hale LLC;Electronics;192.28;472.07;true;2024-12-14
+187;Dumbbells;Garcia Ltd;Sports;69.26;136.67;true;2025-01-08
+188;Lamp;Miller and Sons;Home;249.36;450.83;true;2025-02-11
+189;Dumbbells;Davis-Brown;Sports;237.55;667.39;true;2024-05-29
+190;Smartphone;Nichols-Jackson;Electronics;189.72;513.39;true;2024-02-27
+191;Sneakers;Tucker PLC;Clothing;139.67;416.96;true;2024-02-08
+192;Jacket;Davis-Gilbert;Clothing;51.9;149.42;true;2024-10-05
+193;Lamp;Flores, Turner and Rivera;Home;29.31;70.23;true;2024-11-09
+194;Tablet;Russell PLC;Electronics;189.55;475.16;true;2025-04-03
+195;Shampoo;Thomas Group;Beauty;212.59;255.52;true;2025-08-05
+196;Hat;Gonzalez, Middleton and Griffith;Clothing;71.73;173.87;true;2024-09-11
+197;Chair;White-Paul;Home;296.51;581.21;true;2023-12-22
+198;Laptop;Brown and Sons;Electronics;118.01;296.84;true;2024-01-22
+199;Lamp;Reynolds, Rogers and Holland;Home;264.89;383.25;true;2025-11-01
+200;Jeans;Smith, Nguyen and Guerra;Clothing;25.18;55.75;true;2024-04-14
+201;Sneakers;Davis, Roberts and Hernandez;Clothing;108.6;171.97;true;2024-10-04
+202;Lotion;Johnson-Edwards;Beauty;207.54;570.31;true;2024-06-18
+203;Laptop;Chapman, Thomas and Davis;Electronics;226.97;513.23;true;2025-09-02
+204;Cream;Orozco-Harris;Beauty;238.37;392.36;true;2025-06-07
+205;Hat;Anderson and Sons;Clothing;182.29;455.38;true;2024-07-04
+206;Headphones;Esparza and Sons;Electronics;65.61;150.41;true;2025-09-09
+207;Cream;Anderson, Ortega and Williams;Beauty;195.62;510.73;true;2024-09-15
+208;Sneakers;Johnson, Woodward and Stevenson;Clothing;118.84;194.18;true;2025-06-19
+209;Smartwatch;Wilson and Sons;Electronics;267.17;326.41;true;2024-06-18
+210;Table;Clark-Johnston;Home;119.12;322.83;true;2024-05-02
+211;Tennis Racket;Thompson, White and Gray;Sports;230.0;671.14;true;2025-11-24
+212;Smartwatch;Moore Ltd;Electronics;24.92;41.66;true;2025-02-22
+213;Tablet;Collier-Jenkins;Electronics;154.45;360.09;true;2024-07-08
+214;Makeup Kit;Robinson and Sons;Beauty;212.03;285.89;true;2024-12-13
+215;Tennis Racket;Barton-Evans;Sports;86.85;152.67;true;2024-11-01
+216;Jeans;Thompson PLC;Clothing;163.24;310.7;true;2024-12-22
+217;Headphones;Lee-Thompson;Electronics;211.11;530.71;true;2024-01-22
+218;Laptop;Sampson, Wright and Christensen;Electronics;30.43;60.31;true;2025-03-23
+219;Football;Weber-Camacho;Sports;96.24;243.97;true;2024-06-08
+220;Smartphone;Berry, Walsh and Ward;Electronics;213.83;526.6;true;2025-03-12
+221;Curtains;Kelly Inc;Home;157.58;422.4;true;2024-08-14
+222;Table;Osborn Group;Home;226.18;627.02;true;2024-09-10
+223;Smartphone;Hart-Jones;Electronics;103.83;204.83;true;2024-12-04
+224;Curtains;Horne-Wood;Home;190.12;397.93;true;2024-06-11
+225;Tablet;Dixon, Harvey and Butler;Electronics;258.51;387.86;true;2024-07-20
+226;Smartwatch;Kennedy-Riddle;Electronics;203.87;286.97;true;2024-05-22
+227;Smartphone;Sweeney-Wolfe;Electronics;258.31;315.69;true;2024-04-08
+228;Sofa;Waters-Rush;Home;276.47;420.82;false;2025-10-19
+229;Smartwatch;Hamilton-Stewart;Electronics;241.92;601.23;true;2024-06-01
+230;Jacket;Hoffman Ltd;Clothing;78.24;222.87;true;2025-04-30
+231;Smartwatch;Martinez-Schultz;Electronics;114.98;241.88;false;2025-06-25
+232;Jeans;Beasley, Adkins and Moore;Clothing;242.28;718.73;false;2024-05-10
+233;Tablet;Fischer, Price and Bradshaw;Electronics;260.48;675.26;true;2024-04-02
+234;Smartwatch;Morgan Inc;Electronics;139.74;260.48;true;2024-04-06
+235;Curtains;Boyer-Wolfe;Home;76.56;142.62;false;2024-10-14
+236;Hat;Mcgee PLC;Clothing;229.34;376.4;true;2025-10-24
+237;Shampoo;Nelson-Bentley;Beauty;73.73;134.45;true;2024-07-10
+238;Headphones;Murphy, Curry and Sanchez;Electronics;5.43;12.94;true;2025-02-08
+239;Chair;Glover-Long;Home;65.53;194.6;true;2025-01-10
+240;Laptop;Cunningham-Lawrence;Electronics;214.94;293.92;false;2024-06-03
+241;Dumbbells;Goodwin, Blake and Cobb;Sports;211.75;396.08;false;2024-02-08
+242;Smartwatch;Gomez and Sons;Electronics;33.2;47.82;true;2025-04-19
+243;Smartwatch;Miller, Long and Harrington;Electronics;172.51;342.08;false;2025-04-06
+244;Jacket;Murray, Johnson and Johnson;Clothing;81.99;144.88;true;2025-07-25
+245;Lamp;Anderson-Brown;Home;138.56;224.54;false;2025-05-02
+246;Hat;Hahn LLC;Clothing;37.15;51.65;true;2025-01-09
+247;Sofa;Olsen-Haley;Home;40.62;74.94;true;2025-10-04
+248;Cream;Peters and Sons;Beauty;141.69;387.45;true;2024-09-21
+249;Curtains;Berry-Wilson;Home;16.9;45.71;true;2025-11-28
+250;Laptop;Sanders-Gonzalez;Electronics;290.68;556.14;true;2025-06-27
+251;Lamp;Sanders-Morris;Home;246.93;373.6;false;2024-07-04
+252;Lotion;Goodman Ltd;Beauty;225.68;372.31;true;2024-04-12
+253;T-Shirt;Phillips, Christensen and Harris;Clothing;8.53;22.99;false;2025-08-01
+254;Jeans;Rodriguez, Taylor and Galvan;Clothing;247.98;463.73;true;2025-09-03
+255;Smartwatch;Mccoy, Turner and Lewis;Electronics;177.91;507.29;true;2025-08-04
+256;Laptop;Wagner-Ortega;Electronics;271.24;541.99;true;2025-12-09
+257;Chair;White Group;Home;17.6;35.72;true;2025-05-10
+258;Dumbbells;Higgins-Bradley;Sports;247.4;472.78;true;2024-02-16
+259;Perfume;Hayes-Chambers;Beauty;109.41;310.17;true;2024-10-09
+260;Perfume;Walker, Murphy and Greene;Beauty;15.22;35.23;true;2024-01-07
+261;Sofa;Rodriguez-Bell;Home;126.54;277.28;true;2025-07-01
+262;Sofa;Wilson Ltd;Home;45.48;70.9;true;2024-06-11
+263;Tennis Racket;Nelson, Richards and Juarez;Sports;191.07;505.17;true;2024-02-11
+264;Cream;Hall LLC;Beauty;146.51;381.89;true;2024-05-19
+265;Bicycle;Barnes, Olson and Mcbride;Sports;99.87;168.46;true;2025-11-12
+266;Tennis Racket;Ferguson-Garcia;Sports;13.64;36.27;true;2024-01-16
+267;Lotion;Gardner, Vazquez and Davis;Beauty;110.44;248.62;true;2024-01-28
+268;T-Shirt;Hancock Group;Clothing;78.12;127.65;true;2025-02-24
+269;Laptop;Jones LLC;Electronics;174.83;519.03;true;2025-10-08
+270;Jeans;Garcia Inc;Clothing;74.78;132.54;true;2025-11-25
+271;Curtains;Pena, Garza and Sandoval;Home;13.32;32.78;false;2025-06-30
+272;Tennis Racket;Allison Ltd;Sports;171.12;263.32;false;2025-10-01
+273;Lotion;English Inc;Beauty;96.17;200.3;true;2024-04-02
+274;Hat;Rivas, Butler and Butler;Clothing;69.55;149.37;true;2024-03-10
+275;Tennis Racket;Kidd, Adkins and Jones;Sports;242.9;440.47;true;2025-03-11
+276;Chair;Wright and Sons;Home;11.46;25.85;false;2024-03-12
+277;Smartwatch;Scott Ltd;Electronics;258.9;758.32;true;2025-10-27
+278;Lotion;Spencer-Beasley;Beauty;34.8;60.66;true;2025-12-11
+279;Sneakers;Flores Inc;Clothing;238.59;698.88;true;2024-10-20
+280;Hat;Woods, Joyce and Davis;Clothing;209.6;601.95;true;2025-08-17
+281;Hat;Garcia, Mccall and Reyes;Clothing;245.26;461.36;true;2024-02-10
+282;Table;Garcia-Miles;Home;57.42;69.09;true;2024-02-15
+283;Dumbbells;Wilson-Mcdowell;Sports;255.97;662.32;true;2025-07-08
+284;Hat;Aguilar LLC;Clothing;98.87;262.58;true;2025-10-21
+285;Football;Davies LLC;Sports;281.32;408.8;true;2025-10-06
+286;Jacket;Dillon, Martin and Cantu;Clothing;294.8;442.85;true;2025-01-23
+287;Headphones;Davis, Davis and Anderson;Electronics;136.76;229.4;true;2025-01-07
+288;Headphones;Evans, Taylor and Washington;Electronics;80.71;112.55;true;2025-05-06
+289;Makeup Kit;Lewis, Graham and Sweeney;Beauty;221.11;651.03;true;2024-09-08
+290;Makeup Kit;Phillips-Patterson;Beauty;108.61;203.71;true;2025-02-28
+291;Tennis Racket;Spencer Inc;Sports;52.98;70.61;true;2024-01-10
+292;Chair;Porter, Mendez and Rodriguez;Home;99.02;288.44;true;2025-12-03
+293;Sneakers;Patton LLC;Clothing;52.47;70.05;false;2024-04-15
+294;Headphones;Hernandez, Bailey and Wiley;Electronics;180.24;415.37;true;2024-02-07
+295;Tablet;Miller LLC;Electronics;283.02;423.68;true;2024-05-21
+296;T-Shirt;Jenkins Ltd;Clothing;34.87;54.75;true;2024-10-25
+297;Bicycle;Lopez, Jones and Kelley;Sports;83.25;142.09;true;2025-07-31
+298;Tablet;Jackson-Morris;Electronics;173.67;470.95;true;2025-06-19
+299;Chair;Singh-Barry;Home;131.14;226.9;true;2023-12-15
+300;Dumbbells;Cox, Tucker and Stokes;Sports;63.9;79.64;true;2025-10-26
