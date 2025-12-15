@@ -19,4 +19,8 @@ Abaixo vou deixar os links para baixar arquivos que criei aprendendo como usar a
 
 [Baixei aqui - fOrders](https://drive.google.com/file/d/15iVrEfKCY10jnONw_Uv4qgPD1O5wQ5EP/view?usp=sharing)
 
+Segue modelo lógico abaixo. [Baixe aqui!](https://app.brmodeloweb.com/#!/publicview/69401fb11ea872536752c496)
+
+![Modelo-logico](fake-dataset\files-ecommerce\modelo-logico-ecommerce.png)
+
 ## As informações são todas ficticias.
