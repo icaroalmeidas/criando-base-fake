@@ -24,3 +24,9 @@ Segue modelo lógico abaixo. [Baixe aqui!](https://app.brmodeloweb.com/#!/public
 ![Modelo-logico](https://github.com/icaroalmeidas/Studying-Data-Engineering/blob/main/fake-dataset/files-ecommerce/modelo-logico-ecommerce.png)
 
 ## As informações são todas ficticias.
+
+### Acesse meu Linkedin!
+&nbsp;<a href="https://www.linkedin.com/in/icaroalmeidas/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+- <a href="https://icaroalmeidas.github.io/portfolio-icaro-data-analyst/index.html">
